@@ -1,4 +1,5 @@
 document.title = "Cast off the shackles of HTML";
+document.body.style.width = "20000px";
 
 //A simple function to create text content for a node
 var nContent = function(n, nType, nValue) {
